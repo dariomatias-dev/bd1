@@ -1,0 +1,9 @@
+# Mini Mundo
+
+A gente sabe como é: a pilha de matéria acumulando, os prazos se aproximando e a procrastinação sempre batendo na porta. É uma luta constante para dar conta de tudo, pulando entre agendas, aplicativos e blocos de notas espalhados. A ideia é justamente simplificar essa rotina, criando um lugar único que funcione como seu centro de comando para os estudos. Em vez de se perder em várias ferramentas, você teria um só espaço para organizar suas tarefas, controlar seu tempo e finalmente transformar o caos em um plano de ação claro e sem estresse.
+
+O estudante passa a organizar seus cursos e matérias, criando um mapa visual de tudo o que precisa ser feito. Para cada matéria, é possível registrar sessões de estudo com a técnica Pomodoro, construindo um histórico preciso do seu tempo de foco e dedicação, permitindo que o aluno acompanhe seu próprio desenvolvimento ao longo do semestre. O conteúdo pode ser detalhado em assuntos específicos e consolidado através de flashcards, garantindo que o aprendizado seja ativo e a revisão, constante.
+
+O sistema também permite a criação de metas com descrições e prazos, garantindo que o estudante esteja sempre ciente de seus próximos compromissos e objetivos. O progresso é acompanhado por meio de autoavaliações com notas pessoais, oferecendo uma visão honesta do próprio desempenho.
+
+Ao centralizar o planejamento, a execução e a revisão dos estudos, esse sistema combate diretamente a sobrecarga mental e a paralisia por análise — as principais causas da procrastinação. Ele libera tempo e energia, antes gastos em decidir "o que fazer agora?", para o que realmente importa: aprender e evoluir. A clareza e a organização tornam-se as ferramentas para construir a disciplina, assegurando ao estudante um ambiente de estudo mais produtivo, consciente e comprometido com o seu próprio sucesso.
