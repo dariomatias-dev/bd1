@@ -51,3 +51,10 @@ postgresql://neondb_owner:npg_7Qhj1BXMGqpa@ep-tiny-haze-acnuw6db-pooler.sa-east-
 As 15 questões de consulta ao banco de dados com seus respectivos scripts SQL:
 
 - [consultas.md](consultas.md)
+
+# Alunos
+
+- [Alison Andrade Alves](https://github.com/AlisonAndrade123)
+- [Dario Arthur Moura Ramos](https://github.com/Dario-Arthur)
+- [Dário Matias Sales](https://github.com/dariomatias-dev)
+- [José Davi Laurentino Bento](https://github.com/DaviJ13)
